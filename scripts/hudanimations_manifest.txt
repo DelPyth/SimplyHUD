@@ -1,0 +1,7 @@
+hudanimations_manifest
+{
+	// Higher on the list takes priority.
+	"file"		"scripts/hudanimations.txt"							// TF2 Default animations, DO NOT OVERRIDE
+	"file"		"scripts/hudanimations_custom.txt"					// Custom HUD animations, EDIT THIS
+	"file"		"scripts/hudanimations_tf.txt"						// Later additions done by Valve, RECOMMENDED TO NOT EDIT
+}
