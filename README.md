@@ -5,6 +5,10 @@ Some screenshots can be seen under the `images` folder.
 
 Please read the WIKI of this repository for any information you'd likely need. Thank you.
 
+###### Author's notes:
+* This HUD does NOT support minmode as of right now.
+* When in a server, looking at the main menu, "Change Scoreboard" will appear. This is fake and does not work. I have no plans for a second scoreboard under minmode.
+* Engineer's build and destroy menu's are out of place.
 
 Change Log:
 ```
