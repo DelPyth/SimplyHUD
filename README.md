@@ -1,4 +1,5 @@
 # SimpleHUD
+HUD IS IN BETA, YOU HAVE BEEN WARNED
 
 A simple and easy edit to the stock HUD, keeping the same look and feel of the default HUD, but making everything centered towards the screen.
 Some screenshots can be seen under the `images` folder.
